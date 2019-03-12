@@ -19,8 +19,8 @@ float circumference = 2*3.14159*R; // C = 2 * pi * radius
 //To track the position and velocity of each particle. We create position and velocity arrays
 //We use polar coordinates; thus, position is measured as an angle only(as radius is constant). 
 //Angle measured in Degrees (0 to 360)
-float thetaMap[1000]; //edit this if you have more than 1000 paricles
-float velMap[1000]; //edit this if you have more than 1000 paricles
+float thetaMap[1000]; //edit this if you have more than 1000 particles
+float velMap[1000]; //edit this if you have more than 1000 particles
 
 float angle; //angle between positions of two particles
 
