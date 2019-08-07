@@ -14,7 +14,7 @@ The code is well commented and easy to understand. The variables which can be mo
 5. Initial velocity of the particles
 6. No. of collisions you wish to observe
 
-The variable are highlighted by a comment 
+The variables are highlighted by a comment 
 ```C++
 //edit this
 ```
